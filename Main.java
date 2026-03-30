@@ -2,8 +2,8 @@ public class Main {
 
     // Calcule la moyenne de deux notes
     public static double moyenne(double note1, double note2) {
-        return 0; // À compléter
-    }
+       return (note1 + note2) / 2;
+}
 
     // Retourne la meilleure note
     public static double meilleureNote(double note1, double note2) {
