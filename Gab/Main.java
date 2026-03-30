@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Gab/Main.java
 package Gab;
 public class Main {
 
