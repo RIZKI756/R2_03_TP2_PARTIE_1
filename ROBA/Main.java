@@ -1,15 +1,15 @@
+package ROBA;
 public class Main {
 
     // Calcule la moyenne de deux notes
     public static double moyenne(double note1, double note2) {
-       return (note1 + note2) / 2;
-}
+        return 0; // À compléter
+    }
 
     // Retourne la meilleure note
     public static double meilleureNote(double note1, double note2) {
 
-        if (note1> note2) {return note2;}
-        else return note1;
+        return 0;
     }
 
     /*
