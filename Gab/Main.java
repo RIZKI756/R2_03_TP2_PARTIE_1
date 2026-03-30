@@ -12,8 +12,6 @@ public class Main {
     }
 
     /*
-     * Affiche les informations du binôme
-     * Attention : chacun ajoute sa ligne
      */
     public static void infosBinome() {
         // System.out.println("Nom Prénom 1");
