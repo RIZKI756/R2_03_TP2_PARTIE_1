@@ -8,7 +8,8 @@ public class Main {
 
     // Retourne la meilleure note
     public static double meilleureNote(double note1, double note2) {
-        return 0; // À compléter
+
+        return 0;
     }
 
     /*
